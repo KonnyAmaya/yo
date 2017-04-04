@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/tetera.dir/main.cpp.o  -o tetera -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 

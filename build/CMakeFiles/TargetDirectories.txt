@@ -1,0 +1,1 @@
+/home/user/opengl/transformaciones_tetera/build/CMakeFiles/tetera.dir
