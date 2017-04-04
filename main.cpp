@@ -1,5 +1,6 @@
 #include <GL/glu.h>
 #include <GL/glut.h>
+//cbfjbkjfakjf
 void init(void){
     /* selecciona el color de borrado */
     glClearColor (0.0, 0.0, 0.0, 0.0);
